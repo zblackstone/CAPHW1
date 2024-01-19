@@ -1,7 +1,5 @@
 def question9_1():
-    """
     answer = 'SMC'
-    """
     return answer
 
 def question9_2():
